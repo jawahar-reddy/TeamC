@@ -3,9 +3,13 @@
 Team Name : TeamC
 
 Team Members: Jawahar Reddy
+
               Srujana Barla
+
               Sai Srinivas
+              
               Sindhu
+              
               Hemant
  
- #Everyone stated Solving Merge Conflicts
+ # Everyone stated Solving Merge Conflicts
